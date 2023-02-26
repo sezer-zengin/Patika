@@ -1,2 +1,2 @@
 # Patika
-www.patika.dev SQL eğitimi için ödevlerin bulunduğu bölümdür.
+www.patika.dev eğitimlerinin ödevlerinin bulunduğu bölümdür.
